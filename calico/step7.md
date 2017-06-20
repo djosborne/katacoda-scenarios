@@ -1,4 +1,4 @@
-Finally, we'll allow access to the pod by applying the network-policy.yaml file.
+Finally, we'll allow access to the pod by applying the network-policy.yaml file, which was pre-uploaded for you in this tutorial.
 
 You can view the contents of the network-policy.yaml file using `vi network-policy.yaml` and then `(escape) q` to exit the text editor.
 
